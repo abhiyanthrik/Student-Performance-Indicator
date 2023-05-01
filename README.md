@@ -1,4 +1,3 @@
 ## End to End Machine Learning Project
-Excited to learn how to create and deploy an end to end ml project from scratch. 
-I heartily thank Mr. Krish Naik sir for such valuable content.
-
+This is a very simple project which was developed just to learn how does CI/CD pipelines works.
+I heartily thank @https://github.com/krishnaik06 sir for providing such a valuable content for free.
